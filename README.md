@@ -28,7 +28,7 @@
 或者克隆仓库：
 
 ```bash
-git clone https://github.com/1711436/tank-battle.git
+git clone https://github.com/Taffy4396/tank-battle.git
 cd tank-battle
 # 用浏览器打开 index.html
 ```
